@@ -1,2 +1,5 @@
 I like getting GitHub to work
 I like Bioinformatics
+I like structural biology.
+I like multi-omics.
+I like sequencing analysis.
