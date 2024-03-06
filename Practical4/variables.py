@@ -20,7 +20,7 @@ else:
 X=True
 Y=False
 
-W= not(X==Y)
+W= not(X==Y)  # Can also be W=(X and not Y) or (not X and Y)
 
 
 print(W)
