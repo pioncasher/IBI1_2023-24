@@ -19,10 +19,15 @@ else:
 
 X=True
 Y=False
-W=X or Y
+
+W= not(X==Y)
+
+
 print(W)
+
+
 #  X        Y       W
-#  True     True    True
+#  True     True    False
 #  False    True    True
 #  True     False   True
 #  False    False   False
