@@ -20,12 +20,9 @@ class students(object):
     def print_attributes(self):
         return f"Student name:{self.students_name}, Major:{self.major}, Score for code portfolio: {self.score_for_code_portfolio}, Score for group project: {self.score_for_group_project}, Exam score: {self.exam_score}"
     
-
-
-
 # An example of using this class
 
 student = students("Frank", "BMS", 90, 95, 95)
 
 
-student.print_attributes()
+print(student.print_attributes())
