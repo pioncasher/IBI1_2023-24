@@ -1,0 +1,2 @@
+It is a quite challenging practical and I learned a lot.
+I learned how to construct of a model of infectious disease and realized that it is based on probability.Also,I saw how the disease spread in a 2D plane, which is quite interesting.
